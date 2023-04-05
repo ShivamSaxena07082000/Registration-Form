@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>TableContents.qml</file>
+        <file>Main_Rectangle.qml</file>
+        <file>Columns.qml</file>
+        <file>Orientation.qml</file>
+    </qresource>
+</RCC>
