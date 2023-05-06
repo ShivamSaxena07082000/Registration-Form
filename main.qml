@@ -22,6 +22,7 @@ ApplicationWindow {
     property string check_str;
     property string country_str;
     property string st;
+    property string ab;
 
     Item{
         id:itemrectID;
@@ -38,7 +39,7 @@ ApplicationWindow {
         ]
         Main_Rectangle{
             id:mainrectID;
-            width:830;
+            width:870;
             height:900;
             anchors.centerIn: mainrectID;
             border.color: "black";
